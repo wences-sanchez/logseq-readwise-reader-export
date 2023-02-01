@@ -1,5 +1,5 @@
 {
-  "name": "logseq-readwise-reader-export",
+  "name": "my-own-logseq-readwise-reader-export",
   "version": "0.1.1",
   "description": "Readwise Reader export",
   "main": "dist/index.html",
